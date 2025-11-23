@@ -1,0 +1,1 @@
+import{g as r}from"./index.DKtf60Sy.js";import{S as o}from"./ScrollTrigger.BWsqEc1I.js";r.registerPlugin(o);r.from(".showcase-item",{opacity:0,scale:.9,duration:.8,ease:"power2.out",stagger:.15,scrollTrigger:{trigger:"#showcase",start:"top 75%"}});
